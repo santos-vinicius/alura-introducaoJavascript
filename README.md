@@ -11,10 +11,11 @@ Você pode estar testando o jogo diretamente pelo p5js:
 
 Objetivo do jogo é fazer o personagem atravessar a rua **sem encostar** nos carros.
 
-> - Ao atravessar com sucesso o jogador recebe 1 ponto. 
-> - Caso encoste em algum carro o jogador irá perder 1 ponto e retorna ao inicio da travessia.
+- Ao atravessar com sucesso o jogador recebe 1 ponto. 
+- Caso encoste em algum carro o jogador irá perder 1 ponto e retorna ao inicio da travessia.
 
-A movimentação do personagem é realizada através das teclas seta pra cima ⬆️  e seta pra baixo ⬇️.
+A **movimentação do personagem** é realizada através das teclas seta pra cima ⬆️  e seta pra baixo ⬇️.
+
 ---
 ### Tecnologias utilizadas
 
