@@ -3,8 +3,8 @@ Este é o projeto realizado durante o curso _**Introdução ao JavaScript com jo
 
 O curso tem como objetivo ensinar o _lógica de programação_ ultilizando o _JavaScript_ como porta de entrada ao desenvolvimento, para isso, foi ultilizado o editor online p5js.org e o clássico jogo  _Freeway_ como referência e inspiração.
 
-Você pode estar testando o jogo diretamente pelo [p5js](https://editor.p5js.org/santosviniv/full/cDnKGDg2A): 
- > [Teste o jogo aqui!](https://editor.p5js.org/santosviniv/full/cDnKGDg2A)
+Você pode estar testando o jogo diretamente pelo [p5js](https://preview.p5js.org/santosviniv/present/cDnKGDg2A): 
+ > [Teste o jogo aqui!](https://preview.p5js.org/santosviniv/present/cDnKGDg2A)
 ---
 ### Objetivo e como jogar:
 
